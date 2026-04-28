@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Mo</h1>
+<h1 align="center">Hi👋, I'm Malte</h1>
 <h3 align="center">A young dev from Germany 🇩🇪</h3> 
 
 <p align="center">🌱 I study <strong>Business Informatics</strong> at the University of Münster, Germany</p>
